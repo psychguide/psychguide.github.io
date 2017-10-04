@@ -1,0 +1,16 @@
+#rose {
+  text-align:center;
+  padding:60px;
+  background:url(books-2597033_1920.jpg);
+  background-size:cover;
+}
+
+#rose .jumbotron {
+  border-radius:20px;
+  background-color:rgba(255,255,255,0.70);
+}
+
+.table-responsive {
+  background-color:rgba(255,255,255,0.75);
+}
+
